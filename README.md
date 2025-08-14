@@ -16,8 +16,8 @@
 ## 📌 Hakkımda
 
 - 💼 Şu an aktif olarak kişisel ve kurumsal projeler geliştiriyorum.
-- 🌱 Sürekli öğreniyorum — özellikle **ASP.NET, C#, SQL, Bootstrap**.
-- ☕ Kod, kahve ve sade tasarım — vazgeçilmez üçlüm.
+- 🌱 Sürekli öğreniyorum — özellikle **| C# | .NET CORE | ASP.NET | MVC5 | SQL |**
+- ☕ Kod, kahve ve modern tasarım — 
 - 🛠️ Geliştirmeye açık, ölçeklenebilir sistemler üzerine çalışmayı seviyorum.
 
 ---
@@ -25,8 +25,11 @@
 ## ⚒️ Teknolojiler & Araçlar
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aspnetcore,csharp,sqlserver,bootstrap,html,css,javascript,jquery,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=wordpress,visualstudio,ai,dotnet,cs,js,mysql,html,css,javascript,git,github,vscode" />
 </div>
+
+
+---
 
 ---
 
