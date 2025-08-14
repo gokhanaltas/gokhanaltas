@@ -3,6 +3,13 @@
 
 <br />
 <br />
+<div align="center" style="display: flex; flex-direction: column; justify-content: margin-left; align-items: margin-left; min-height: 300vh; min-weight: 300px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Libertinus+Sans&weight=500&size=30&duration=300&pause=300&color=0CA9F7&width=600&lines=---------------------------------------;I+AM+SOFTWARE+DEVELOPER+" alt="Typing SVG" />
+  </a>
+</div>
+
+<br />
 
 <!-- 👨‍💻 Kodlama GIF -->
 <div align="center">
