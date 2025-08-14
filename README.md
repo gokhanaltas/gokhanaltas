@@ -1,26 +1,57 @@
-<h1 align="center">Hi 👋, I'm Gokhan Altas</h1>
-<h3 align="center">🚀 Full Stack Web Developer</h3>
-
-<br />
-<br />
-<div align="center" style="display: flex; flex-direction: column; justify-content: margin-left; align-items: margin-left; min-height: 300vh; min-weight: 300px;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Libertinus+Sans&weight=500&size=30&duration=300&pause=300&color=0CA9F7&width=600&lines=---------------------------------------;I+AM+SOFTWARE+DEVELOPER+" alt="Typing SVG" />
-  </a>
-</div>
-
-<br />
-
-<!-- 👨‍💻 Kodlama GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF" />
+  <h3>
+    <a href="https://git.io/typing-svg">
+      <img 
+        src="https://readme-typing-svg.demolab.com?font=Libertinus+Sans&weight=500&size=30&duration=3000&pause=300&color=0CA9F7&center=true&vCenter=true&width=435&lines=---------------------------------------;I+AM+SOFTWARE+DEVELOPER+" 
+        alt="Typing SVG" 
+      />
+    </a>
+  </h3>
 </div>
 
-<br />
+<h3 align="center">🚀 Full Stack Web Developer | Modern ve güvenli yazılımlar geliştiriyorum</h3>
 
-<!-- 📌 GitHub Follow Rozeti -->
+---
+
+## 📌 Hakkımda
+
+- 💼 Şu an aktif olarak kişisel ve kurumsal projeler geliştiriyorum.
+- 🌱 Sürekli öğreniyorum — özellikle **ASP.NET, C#, SQL, Bootstrap**.
+- ☕ Kod, kahve ve sade tasarım — vazgeçilmez üçlüm.
+- 🛠️ Geliştirmeye açık, ölçeklenebilir sistemler üzerine çalışmayı seviyorum.
+
+---
+
+## ⚒️ Teknolojiler & Araçlar
+
 <div align="center">
-  <a href="https://github.com/gokhanaltas?tab=repositories">
-    <img src="https://img.shields.io/github/followers/gokhanaltas?label=Follow&style=social" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=aspnetcore,csharp,sqlserver,bootstrap,html,css,javascript,jquery,git,github,vscode" />
 </div>
+
+---
+
+## 📊 GitHub İstatistiklerim
+
+<br>
+
+<div align="center">
+
+  <!-- ⭐ GitHub İstatistik Kartı -->
+  <img 
+    width="390" 
+    src="https://github-readme-stats.vercel.app/api?username=gokhanaltas&show_icons=true&count_private=true&hide_title=true&hide_border=false&theme=react&border_radius=10&include_all_commits=true" 
+    alt="GitHub Stats" 
+  />
+
+  <br><br>
+
+  <!-- 🧠 En Çok Kullanılan Diller -->
+  <img 
+    width="325" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokhanaltas&hide=html&layout=compact&langs_count=8&theme=react&border_radius=10&exclude_repo=github-readme-stats" 
+    alt="Top Languages"
+  />
+
+</div>
+
+<br>
